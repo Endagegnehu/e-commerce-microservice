@@ -12,7 +12,6 @@ import java.util.List;
 import org.springframework.http.HttpStatus;
 
 import com.example.productservice.dto.ProductRequest;
-import com.example.productservice.dto.ProductRequestV2;
 import com.example.productservice.dto.ProductResponse;
 import com.example.productservice.model.Product;
 import com.example.productservice.service.ProductService;

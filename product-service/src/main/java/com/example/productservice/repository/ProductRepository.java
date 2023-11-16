@@ -5,6 +5,6 @@ import org.springframework.stereotype.Repository;
 import com.example.productservice.model.Product;
 
 @Repository
-public interface ProductRepostory extends MongoRepository<Product, String> {
+public interface ProductRepository extends MongoRepository<Product, String> {
         
 }
